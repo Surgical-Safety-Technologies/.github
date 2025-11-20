@@ -8,16 +8,8 @@ Delivering proven value with 100+ peer-reviewed publications, SST drives the fut
 
 ## Quick links
 - **Website** — https://www.surgicalsafety.com  
-  (company site referenced across SST materials) :contentReference[oaicite:0]{index=0}
 
-- **LinkedIn** — https://www.linkedin.com/company/surgical-safety-technologies/  
-  (SST maintains an active LinkedIn presence referenced in our marketing materials) :contentReference[oaicite:1]{index=1}
+- **LinkedIn** — https://www.linkedin.com/company/surgicalsafetytechnologies/  
 
-- **X (Twitter)** — https://x.com/SurgicalSafety  — handle: **@SurgicalSafety**  
-  (official social handle shown in SST brand guidelines) :contentReference[oaicite:2]{index=2}
-
-- **Contact / Book a demo** — https://www.surgicalsafety.com/contact
-
----
-
+- **X (Twitter)** — https://x.com/surgicalsafety  — handle: **@SurgicalSafety**  
 
